@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-para{
+   background-color:rgb(255, 193, 202);
+   font-family: Verdana, DejaVu Sans, sans-serif ;
+}
+#unique.odd-para{
+    font-size: 24px;
+}
+#blue-id{
+    color: rgb(51, 106, 246);
+    font-size: 36px;
+}
+#green-id{
+    background-color: rgb(161, 248, 139);
+    font-size: 24px;
+    font-weight: bold;
+}
